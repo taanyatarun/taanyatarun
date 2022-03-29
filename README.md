@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taanyatarun
-- 👀 I’m interested in Web development and Web designing.
-- 🌱 I’m currently learning HTML, CSS, JS, C, Python, SQL
+- 👀 I’m interested in Web development, Web designing and Android Development.
+- 🌱 I’m currently learning HTML, CSS, JS, C, C++, Dart, Python, SQL
 - 💞️ I’m looking to collaborate on frontend web development.
 
 <!---
